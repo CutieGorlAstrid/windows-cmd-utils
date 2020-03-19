@@ -1,14 +1,17 @@
 @echo off
 if [%1]==[/?] (goto help) else (goto searchtest)
 
+:: Checks whether or not a command-line argument was passed.
 :searchtest
 if [%1]==[] (goto nosearchquery) else (goto search)
 
+:: Searches DuckDuckGo for the query specified.
 :search
 echo Searching for %1.
 start www.duckduckgo.com/?q=%1
 exit /b
 
+:: If there was no command-line argument passed, print this error message.
 :nosearchquery
 echo The syntax of the command is incorrect. Please specify a search term (with '+' for spaces) as well as a search engine. 
 echo Type 'search /?' (without quotes) for more information.
