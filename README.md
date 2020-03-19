@@ -2,7 +2,7 @@
 A collection of simple command-line utilities created by me.
 
 ## Usage
-You can download this repo either by using the 'Clone or download' dropdown menu or clicking (this link.)[https://github.com/CutieGorlAstrid/windows-cmd-utils/archive/master.zip]
+You can download this repo either by using the 'Clone or download' dropdown menu or clicking [this link.](https://github.com/CutieGorlAstrid/windows-cmd-utils/archive/master.zip)
 Simply extract to any directory and run the programs from `CMD.EXE`. Preferably, you'll want to add these to PATH.
 
 You can either...
