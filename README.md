@@ -11,7 +11,7 @@ Preferably, you'll want to add these to PATH.
 Simply drag and drop the utilities in `C:\Windows` or any of its subfolders.
 
 #### Extract them anywhere on your hard drive and add them to PATH
-This is a bit more involved than the last method. You can extract the programs anywhere, but you have to manually add the folder that the programs are in to the PATH environment variables. For more information, visit [this page.](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
+This is a bit more involved than the last method. You can extract the programs anywhere, but you have to manually add the folder that the programs are in to the PATH environment variable. For more information, visit [this page.](https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/)
 
 ## What do each of them do?
 ### sudont
