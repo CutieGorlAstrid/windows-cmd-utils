@@ -11,7 +11,7 @@ Preferably, you'll want to add these to PATH.
 Simply drag and drop the utilities in `C:\Windows` or any of its subfolders. This requires administrative access.
 
 #### Extract them anywhere on your hard drive and add them to PATH
-This is a bit more involved than the last method. You can extract the programs anywhere, but you have to manually add the folder that the programs are in to the PATH environment variable. For more information, visit [this page.](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/)
+This is a bit more involved than the last method. You can extract the programs anywhere, but you have to manually add the folder that the programs are in to the PATH environment variable. For more information, visit [this page](https://helpdeskgeek.com/windows-10/add-windows-path-environment-variable/) and follow the instructions for your own user account.
 
 ## What do each of them do?
 ### sudont
